@@ -201,7 +201,8 @@ The system is tested on 6 questions covering:
 
 ## License
 
-MIT License - See LICENSE file
+Non-Commercial License — See `LICENSE` for details. Commercial use
+requires prior written permission from the copyright holder.
 
 ## Author
 
